@@ -2,6 +2,7 @@
   display: none;
 }
 
- .slick {
+ #wall .parent {
   display: none;
 }
+
